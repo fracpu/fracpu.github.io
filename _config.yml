@@ -1,10 +1,10 @@
-domain: example.com
-url: https://example.com
-baseurl: "/wind"
+domain: ilroccolobrisighella.com
+url: https://roccolo.github.io
+baseurl: "/ilroccolo"
 
-title: Wind
-email: wind@example.com
-author: Wind Sample
+title: Il Roccolo Brisighella
+email: francesca.olivi98@gmail.com
+author: Francesca Olivi
 
 lang: en
 
