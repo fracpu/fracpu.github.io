@@ -3,5 +3,5 @@ layout: home
 ---
 # Welcome
 
-Hello World. Hello Friend.
+A cozy holiday house in the heart of Vena del Gesso Romagnola, Europe's largest selenitic gypsum chain.
 

@@ -1,7 +1,7 @@
 photos:
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/200/300
-    quote: This is a quote
+  - description: Case Brisighella
+    url: "/images/brisighellacase.jpg"
+    quote: Brisighella from above
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: https://picsum.photos/800/800
     quote: This is a quote 🐬
