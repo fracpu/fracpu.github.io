@@ -22,6 +22,6 @@ History enthusiasts will love the area’s rich archaeological heritage. Visit t
 
 Emilia-Romagna is renowned for its culinary excellence, and Brisighella is no exception. The region is particularly famous for its high-quality olive oil and artichokes, celebrated in local festivals. Wine enthusiasts will enjoy exploring local vineyards and participating in wine tours. Taste exquisite Sangiovese and Albana wines, and discover traditional winemaking methods perfected over centuries.
 
-**Olive Oil**: Brisighella’s olive oil is renowned for its exceptional quality, with a rich and fruity flavor that is a staple of local cuisine.
-**Moretto Artichoke**: The region’s artichokes are prized for their tenderness and flavor, often featured in local dishes and seasonal festivals.
-**Wine**: The hills around Brisighella are dotted with vineyards producing some of Italy’s finest wines. Don’t miss the chance to join a guided wine tour, where you can taste and purchase these delightful local products.
+- **Olive Oil**: Brisighella’s olive oil is renowned for its exceptional quality, with a rich and fruity flavor that is a staple of local cuisine.
+- **Moretto Artichoke**: The region’s artichokes are prized for their tenderness and flavor, often featured in local dishes and seasonal festivals.
+- **Wine**: The hills around Brisighella are dotted with vineyards producing some of Italy’s finest wines. Don’t miss the chance to join a guided wine tour, where you can taste and purchase these delightful local products.
