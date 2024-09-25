@@ -5,6 +5,8 @@ layout: home
 
 A cozy holiday house in the heart of Vena del Gesso Romagnola, Europe's largest selenitic gypsum chain.
 
+![IlRoccolo](/assets/images/immagineprincipale.jpg)
+
 ## Where can you find us?
 
 Via Rontana, 8
