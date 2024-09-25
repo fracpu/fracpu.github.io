@@ -9,7 +9,7 @@ Here in detail the areas of the house
 
 ## Living room 
 
-![Living room](/assets/images/libreriavicino.jpg)"Books and fireplace"
+![Living room](/assets/images/libreriavicino.jpg)
 
 Open space with wooden furniture and heating: there is a pellet stove, an inverter hot/cold air conditioner and a large wood and stone fireplace.
 
