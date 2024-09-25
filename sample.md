@@ -7,7 +7,7 @@ layout: page
 
 Here in detail the areas of the house
 
-## Living room (h2)
+## Living room 
 
 ![Living room](/assets/images/libreriavicino.jpg)"Books and fireplace"
 
@@ -15,7 +15,7 @@ Open space with wooden furniture and heating: there is a pellet stove, an invert
 
 In the center of the room you will find a newly renovated sofa bed, comfortable for two people.
 
-## Kitchen corner (h2)
+## Kitchen corner 
 
 ![Kitchen](/assets/images/cucina5.jpg)
 
@@ -23,19 +23,19 @@ Here you will find all the utensils for cooking a quick meal and a powerful, sta
 
 In addition, the kitchen has a small refrigerator with built-in freezer and a microwave oven.
 
-## Bathroom (h2)
+## Bathroom 
 
 ![Sink](/assets/images/bagno.jpg)
 
 Small bathroom, with shower, toilet and bidet. A little stove is also provided. 
 
-## Bedroom (h2)
+## Bedroom 
 
 ![Bedroom](/assets/images/cameradaletto.jpg)
 
 Going up a small wooden staircase you will find the loft. here there is a double bed, a coat rack and a small bookcase, created with salvaged wooden boxes. 
 
-## Outside (h2)
+## Outside 
 
 ![Forno a legna](/assets/images/fornoalegna.jpg)
 
