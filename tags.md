@@ -1,5 +1,5 @@
 ---
-title: Book your stay
+title: book
 layout: page
 ---
 
