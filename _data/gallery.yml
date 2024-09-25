@@ -1,6 +1,6 @@
 photos:
-  - description: 
-    url: "assets\images\brisighellacase.jpg"
+  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+    url: "/assets/images/brisighellacase.jpg"
     quote: Brisighella from above
   - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
     url: https://picsum.photos/800/800
