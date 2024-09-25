@@ -1,19 +1,19 @@
 photos:
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
+  - description: Gallery.
     url: "/assets/images/brisighellacase.jpg"
     quote: Brisighella from above
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/800/800
-    quote: This is a quote 🐬
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/1200/720
-    quote: This is a quote 🐬
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/600/600
-    quote: This is a quote 🐬
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/400/600
-    quote: This is a quote 🐬
-  - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eget risus nisi.
-    url: https://picsum.photos/300/200
-    quote: This is a quote 🐬
+  - description: Gallery.
+    url: "/assets/images/paesaggio.jpg"
+    quote: Autumn vibes 🍂
+  - description: Gallery.
+    url: "/assets/images/fiori.jpg"
+    quote: Outside corners 🌸
+  - description: Gallery.
+    url: "/assets/images/piccocamurani.jpg"
+    quote: Hiking paths ⛰️
+  - description: Gallery.
+    url: "/assets/images/fornoalegna.jpg"
+    quote: Wood oven 🔥
+  - description: Gallery.
+    url: "/assets/images/salottoinsieme.jpg"
+    quote: Cozy environment 🫖
