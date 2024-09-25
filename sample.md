@@ -3,13 +3,13 @@ title: services and prices
 layout: page
 ---
 
-# Services 
+# Services and [prices](#Prices)
 
 Here in detail the areas of the house
 
 ## Living room 
 
-![Living room](/assets/images/libreriavicino.jpg)
+![Living room](/assets/images/salottoinsieme.jpg)
 
 Open space with wooden furniture and heating: there is a pellet stove, an inverter hot/cold air conditioner and a large wood and stone fireplace.
 
@@ -17,7 +17,7 @@ In the center of the room you will find a newly renovated sofa bed, comfortable 
 
 ## Kitchen corner 
 
-![Kitchen](/assets/images/cucina5.jpg)
+![Kitchen](/assets/images/cucina3.jpg)
 
 Here you will find all the utensils for cooking a quick meal and a powerful, state-of-the-art electric cooker.
 

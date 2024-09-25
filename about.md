@@ -2,6 +2,16 @@
 title: about
 layout: page
 ---
+Il Roccolo Brisighella is a picturesque vacation home located in the charming village of Brisighella, Emilia-Romagna. This small house was built by our family between the 1980s and 1990s from the ruins of an ancient hunting outpost. The house is entirely furnished with recycled furniture, giving it a unique and authentic atmosphere.
+
+Guests can enjoy an attic room with a double bed, a sofa bed, a well-equipped kitchenette, and a small bathroom with shower.
+
+Inside, a cozy fireplace makes cooler evenings pleasant and comfortable.
+
+Outside, a large space with olive grove, wood oven and barbecue is perfect for outdoor meals and relaxing moments surrounded by nature.
+
+Roccolo Brisighella is ideal for those seeking an authentic experience away from the hustle and bustle of the city, with the opportunity to explore the quaint medieval village of Brisighella and its attractions.
+
 ## Area
 
 Located in the heart of  Emilia-Romagna, Brisighella is a charming medieval village offering a perfect blend of history, nature, and culinary delights. Our enchanting holiday house is the ideal starting point to explore the rich cultural and natural heritage of this beautiful area.
