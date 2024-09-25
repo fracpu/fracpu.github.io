@@ -14,7 +14,7 @@ photos:
   - description: Gallery.
     url: "/assets/images/salottoinsieme.jpg"
     quote: Cozy environment 🫖
- - description: Gallery.
+  - description: Gallery.
     url: "/assets/images/angolicasa.jpg"
     quote: House corners
   - description: Gallery.
@@ -23,7 +23,7 @@ photos:
   - description: Gallery.
     url: "/assets/images/casadafuori2.jpg"
     quote: Fall peace 🌰
-    description: Gallery.
+  - description: Gallery.
     url: "/assets/images/stradinapaesaggio.jpg"
     quote: The way downhill
   - description: Gallery.
