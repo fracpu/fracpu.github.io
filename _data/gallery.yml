@@ -1,8 +1,5 @@
 photos:
   - description: Gallery.
-    url: "/assets/images/brisighellacase.jpg"
-    quote: Brisighella from above
-  - description: Gallery.
     url: "/assets/images/paesaggio.jpg"
     quote: Autumn vibes 🍂
   - description: Gallery.
@@ -17,3 +14,21 @@ photos:
   - description: Gallery.
     url: "/assets/images/salottoinsieme.jpg"
     quote: Cozy environment 🫖
+ - description: Gallery.
+    url: "/assets/images/angolicasa.jpg"
+    quote: House corners
+  - description: Gallery.
+    url: "/assets/images/casadafuori.jpg"
+    quote: Winter vibes
+  - description: Gallery.
+    url: "/assets/images/casadafuori2.jpg"
+    quote: Fall peace 🌰
+    description: Gallery.
+    url: "/assets/images/stradinapaesaggio.jpg"
+    quote: The way downhill
+  - description: Gallery.
+    url: "/assets/images/closeupmobile.jpg"
+    quote: Interiors
+  - description: Gallery.
+    url: "/assets/images/casaginestre.jpg"
+    quote: Brooms 💛
